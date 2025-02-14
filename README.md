@@ -14,6 +14,10 @@ Kiểm tra và xóa các giá trị trùng lặp.
 Đếm số lượng giá trị riêng biệt trong từng cột.
 
 Dữ liệu đã ở dạng số hóa nên không cần thêm bước chuyển đổi.
+# Trực quan hóa dữ liệu
+
+Sử dụng PowerBI để trực quan hóa dữ liệu.
+
 # Các thuật toán sử dụng
 
 Logistic Regression:
